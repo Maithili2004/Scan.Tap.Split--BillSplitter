@@ -9,7 +9,7 @@ A modern, AI-powered bill splitting application built with Next.js 14, TypeScrip
 
 ## 🚀 Live Demo
 
-[**Try the Live App →**](https://bill-splitter-ai.vercel.app) 
+[**Try the Live App →**](https://scan-tap-split-bill-splitter-6j3q.vercel.app/) 
 
 ## ✨ Features
 
@@ -330,6 +330,6 @@ The app can be deployed to any platform that supports Next.js:
 
 ⭐ **Star this repo if it helped you learn!** ⭐
 
-[🚀 Live Demo](https://bill-splitter-ai.vercel.app)
+[🚀 Live Demo](https://scan-tap-split-bill-splitter-6j3q.vercel.app/)
 
 </div>
